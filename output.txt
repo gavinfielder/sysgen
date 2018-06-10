@@ -1,0 +1,811 @@
+Welcome to the Linear Homogenous 2x2 System of Differential Equations Generator
+===== Main Menu =====
+  Enter 1 to generate matrices
+  Enter 2 to select possible system behaviors (default is all possible behaviors)
+  Enter 3 (or anything else) to quit
+1
+How many matrices would you like to generate?
+200
+For the 2x2 linear homogoneous system x'(t) = A * x(t), the matrix A is:
+A0 =	2 	-12
+    	2 	-8
+
+A1 =	-3 	-1
+    	31 	8
+
+A2 =	-3 	-6
+    	2 	4
+
+A3 =	-3 	-1
+    	2 	0
+
+A4 =	4 	13
+    	-1 	-2
+
+A5 =	1 	1
+    	1 	-3
+
+A6 =	-1 	-1
+    	5 	1
+
+A7 =	4 	-9
+    	2 	-3
+
+A8 =	-2 	2
+    	-4 	0
+
+A9 =	0 	-4
+    	2 	-5
+
+A10 =	3 	-3
+    	2 	-2
+
+A11 =	-3 	2
+    	-2 	1
+
+A12 =	-2 	2
+    	2 	1
+
+A13 =	5 	-2
+    	2 	1
+
+A14 =	4 	0
+    	1 	2
+
+A15 =	0 	-4
+    	2 	5
+
+A16 =	-4 	2
+    	2 	-1
+
+A17 =	2 	13
+    	-1 	-4
+
+A18 =	2 	2
+    	9 	5
+
+A19 =	0 	1
+    	0 	5
+
+A20 =	4 	8
+    	2 	4
+
+A21 =	-2 	1
+    	-1 	-2
+
+A22 =	1 	-1
+    	1 	1
+
+A23 =	-2 	3
+    	3 	-6
+
+A24 =	-1 	2
+    	-3 	4
+
+A25 =	-1 	3
+    	-3 	5
+
+A26 =	1 	1
+    	2 	-2
+
+A27 =	1 	-2
+    	2 	5
+
+A28 =	2 	0
+    	1 	-2
+
+A29 =	5 	-14
+    	2 	-6
+
+A30 =	-3 	-1
+    	5 	-1
+
+A31 =	-3 	-1
+    	13 	3
+
+A32 =	4 	3
+    	3 	4
+
+A33 =	-1 	-1
+    	3 	-1
+
+A34 =	-2 	1
+    	5 	-6
+
+A35 =	1 	1
+    	-1 	3
+
+A36 =	0 	0
+    	1 	-2
+
+A37 =	-1 	2
+    	1 	-7
+
+A38 =	2 	-8
+    	2 	-8
+
+A39 =	-1 	2
+    	-2 	3
+
+A40 =	-3 	6
+    	2 	-5
+
+A41 =	2 	-7
+    	3 	-8
+
+A42 =	-4 	7
+    	-1 	1
+
+A43 =	0 	0
+    	1 	-7
+
+A44 =	-3 	-1
+    	5 	1
+
+A45 =	-3 	5
+    	3 	-5
+
+A46 =	-4 	3
+    	-9 	5
+
+A47 =	2 	-2
+    	2 	2
+
+A48 =	-4 	2
+    	-23 	11
+
+A49 =	-2 	-9
+    	2 	7
+
+A50 =	0 	5
+    	-1 	-2
+
+A51 =	4 	37
+    	-1 	-8
+
+A52 =	3 	17
+    	-1 	-4
+
+A53 =	-1 	2
+    	-2 	-5
+
+A54 =	3 	-2
+    	2 	0
+
+A55 =	3 	1
+    	0 	0
+
+A56 =	1 	-3
+    	3 	-5
+
+A57 =	3 	17
+    	-1 	-4
+
+A58 =	1 	0
+    	1 	6
+
+A59 =	-3 	5
+    	-1 	1
+
+A60 =	-1 	3
+    	-3 	-7
+
+A61 =	3 	5
+    	2 	4
+
+A62 =	-1 	2
+    	-2 	3
+
+A63 =	-2 	-1
+    	1 	-3
+
+A64 =	0 	2
+    	2 	-3
+
+A65 =	-3 	3
+    	-1 	1
+
+A66 =	5 	2
+    	-19 	-8
+
+A67 =	-1 	2
+    	2 	-1
+
+A68 =	2 	-4
+    	2 	-7
+
+A69 =	-2 	2
+    	1 	-4
+
+A70 =	0 	0
+    	1 	1
+
+A71 =	-2 	2
+    	-6 	9
+
+A72 =	-1 	1
+    	3 	-5
+
+A73 =	5 	-1
+    	2 	-1
+
+A74 =	0 	-1
+    	5 	-4
+
+A75 =	-3 	2
+    	6 	-4
+
+A76 =	4 	-1
+    	37 	-10
+
+A77 =	-4 	2
+    	-24 	10
+
+A78 =	3 	2
+    	-13 	-7
+
+A79 =	3 	-17
+    	2 	-11
+
+A80 =	4 	5
+    	-7 	-8
+
+A81 =	-2 	2
+    	-2 	-6
+
+A82 =	3 	-1
+    	3 	-1
+
+A83 =	1 	2
+    	-5 	-5
+
+A84 =	0 	0
+    	1 	5
+
+A85 =	-1 	2
+    	-5 	5
+
+A86 =	5 	2
+    	9 	2
+
+A87 =	1 	-6
+    	2 	-8
+
+A88 =	0 	-2
+    	2 	5
+
+A89 =	3 	-11
+    	3 	-11
+
+A90 =	-3 	5
+    	-7 	9
+
+A91 =	-2 	-1
+    	17 	6
+
+A92 =	-3 	2
+    	6 	-4
+
+A93 =	0 	2
+    	2 	3
+
+A94 =	2 	2
+    	-1 	0
+
+A95 =	4 	-7
+    	7 	-12
+
+A96 =	-3 	11
+    	1 	-5
+
+A97 =	-1 	3
+    	-1 	-2
+
+A98 =	4 	2
+    	-21 	-9
+
+A99 =	2 	1
+    	13 	3
+
+A100 =	4 	-5
+    	2 	-1
+
+A101 =	2 	-3
+    	3 	-1
+
+A102 =	2 	6
+    	2 	6
+
+A103 =	-1 	1
+    	5 	-5
+
+A104 =	2 	-1
+    	13 	-4
+
+A105 =	-2 	2
+    	-12 	10
+
+A106 =	4 	-1
+    	47 	-10
+
+A107 =	-4 	2
+    	-10 	5
+
+A108 =	-3 	17
+    	-1 	4
+
+A109 =	-3 	-16
+    	2 	9
+
+A110 =	-4 	-6
+    	2 	4
+
+A111 =	2 	0
+    	1 	2
+
+A112 =	-3 	-6
+    	2 	2
+
+A113 =	-3 	3
+    	-5 	5
+
+A114 =	1 	11
+    	-1 	-6
+
+A115 =	5 	37
+    	-1 	-7
+
+A116 =	1 	-1
+    	2 	3
+
+A117 =	3 	1
+    	0 	0
+
+A118 =	5 	-25
+    	2 	-10
+
+A119 =	1 	5
+    	-5 	-9
+
+A120 =	-2 	-7
+    	2 	4
+
+A121 =	-4 	2
+    	-10 	4
+
+A122 =	5 	-24
+    	2 	-9
+
+A123 =	-2 	1
+    	7 	-5
+
+A124 =	4 	-7
+    	2 	-2
+
+A125 =	-3 	2
+    	-12 	10
+
+A126 =	5 	3
+    	-1 	0
+
+A127 =	-4 	2
+    	-22 	11
+
+A128 =	5 	2
+    	-24 	-9
+
+A129 =	1 	5
+    	-1 	2
+
+A130 =	-3 	-8
+    	2 	5
+
+A131 =	2 	5
+    	-1 	-2
+
+A132 =	5 	4
+    	2 	3
+
+A133 =	-4 	5
+    	-11 	12
+
+A134 =	-1 	1
+    	0 	-1
+
+A135 =	2 	0
+    	1 	4
+
+A136 =	1 	1
+    	2 	5
+
+A137 =	4 	23
+    	-1 	-5
+
+A138 =	2 	-1
+    	3 	-2
+
+A139 =	2 	2
+    	-5 	-4
+
+A140 =	-4 	2
+    	-10 	4
+
+A141 =	0 	5
+    	-1 	-4
+
+A142 =	3 	2
+    	3 	4
+
+A143 =	1 	-1
+    	1 	2
+
+A144 =	-2 	19
+    	-1 	8
+
+A145 =	5 	2
+    	-20 	-7
+
+A146 =	5 	5
+    	-13 	-12
+
+A147 =	-1 	3
+    	-3 	-7
+
+A148 =	2 	-2
+    	2 	2
+
+A149 =	-1 	1
+    	0 	-1
+
+A150 =	0 	1
+    	0 	3
+
+A151 =	0 	3
+    	1 	-2
+
+A152 =	-4 	-10
+    	2 	3
+
+A153 =	0 	-4
+    	2 	-4
+
+A154 =	-1 	-7
+    	2 	8
+
+A155 =	4 	-1
+    	17 	-4
+
+A156 =	2 	-1
+    	17 	-5
+
+A157 =	-2 	2
+    	-6 	5
+
+A158 =	0 	-1
+    	7 	-8
+
+A159 =	4 	2
+    	-22 	-11
+
+A160 =	2 	7
+    	-1 	-5
+
+A161 =	-4 	2
+    	-24 	12
+
+A162 =	0 	1
+    	1 	4
+
+A163 =	-1 	0
+    	1 	-6
+
+A164 =	-3 	-17
+    	2 	9
+
+A165 =	5 	-1
+    	23 	-3
+
+A166 =	-4 	7
+    	-7 	10
+
+A167 =	0 	1
+    	0 	-7
+
+A168 =	-2 	3
+    	-7 	8
+
+A169 =	-3 	2
+    	1 	-3
+
+A170 =	-3 	1
+    	-1 	-5
+
+A171 =	2 	6
+    	2 	6
+
+A172 =	5 	-16
+    	2 	-6
+
+A173 =	3 	-2
+    	2 	-2
+
+A174 =	0 	1
+    	5 	4
+
+A175 =	5 	43
+    	-1 	-9
+
+A176 =	4 	-18
+    	2 	-8
+
+A177 =	4 	-1
+    	29 	-6
+
+A178 =	-1 	-1
+    	5 	-3
+
+A179 =	0 	-1
+    	7 	-8
+
+A180 =	-4 	-3
+    	2 	1
+
+A181 =	-4 	2
+    	-3 	0
+
+A182 =	0 	5
+    	-1 	-2
+
+A183 =	-4 	13
+    	-1 	2
+
+A184 =	4 	-20
+    	2 	-9
+
+A185 =	0 	1
+    	0 	-7
+
+A186 =	2 	-1
+    	5 	-2
+
+A187 =	-1 	-2
+    	2 	-5
+
+A188 =	2 	-10
+    	2 	-7
+
+A189 =	-1 	2
+    	-2 	2
+
+A190 =	2 	-10
+    	2 	-7
+
+A191 =	3 	2
+    	-15 	-8
+
+A192 =	-2 	2
+    	-5 	3
+
+A193 =	-2 	1
+    	1 	-2
+
+A194 =	3 	-7
+    	3 	-7
+
+A195 =	-4 	-1
+    	3 	0
+
+A196 =	3 	-1
+    	5 	-1
+
+A197 =	0 	2
+    	2 	4
+
+A198 =	5 	-18
+    	2 	-7
+
+A199 =	-4 	2
+    	-24 	12
+
+Would you like to print the behaviors of these matrices? (y/n)
+y
+A0: stable node irrational
+A1: unstable spiral irrational
+A2: one eigenvalue is 0, unstable equilibria
+A3: stable node irrational
+A4: unstable spiral integer
+A5: saddle irrational
+A6: center
+A7: unstable spiral irrational
+A8: stable spiral irrational
+A9: stable spiral irrational
+A10: one eigenvalue is 0, unstable equilibria
+A11: repeated eigenvalues stable integer
+A12: saddle integer
+A13: repeated eigenvalues unstable integer
+A14: unstable node integer
+A15: unstable spiral irrational
+A16: one eigenvalue is 0, stable equilibria
+A17: stable spiral integer
+A18: saddle integer
+A19: one eigenvalue is 0, unstable equilibria
+A20: one eigenvalue is 0, unstable equilibria
+A21: stable spiral integer
+A22: unstable spiral integer
+A23: stable node irrational
+A24: unstable node irrational
+A25: repeated eigenvalues unstable integer
+A26: saddle irrational
+A27: repeated eigenvalues unstable integer
+A28: saddle integer
+A29: saddle integer
+A30: stable spiral integer
+A31: center
+A32: unstable node irrational
+A33: stable spiral irrational
+A34: stable node integer
+A35: repeated eigenvalues unstable integer
+A36: one eigenvalue is 0, stable equilibria
+A37: stable node irrational
+A38: one eigenvalue is 0, stable equilibria
+A39: repeated eigenvalues unstable integer
+A40: stable node irrational
+A41: stable node integer
+A42: stable spiral irrational
+A43: one eigenvalue is 0, stable equilibria
+A44: stable spiral integer
+A45: one eigenvalue is 0, stable equilibria
+A46: unstable spiral irrational
+A47: unstable spiral integer
+A48: unstable node irrational
+A49: unstable node integer
+A50: stable spiral integer
+A51: stable spiral integer
+A52: stable spiral irrational
+A53: repeated eigenvalues stable integer
+A54: unstable spiral irrational
+A55: one eigenvalue is 0, unstable equilibria
+A56: repeated eigenvalues stable integer
+A57: stable spiral irrational
+A58: unstable node integer
+A59: stable spiral integer
+A60: repeated eigenvalues stable integer
+A61: unstable node irrational
+A62: repeated eigenvalues unstable integer
+A63: stable spiral irrational
+A64: saddle irrational
+A65: one eigenvalue is 0, stable equilibria
+A66: saddle irrational
+A67: saddle irrational
+A68: saddle integer
+A69: stable node irrational
+A70: one eigenvalue is 0, unstable equilibria
+A71: saddle irrational
+A72: stable node irrational
+A73: saddle irrational
+A74: stable spiral integer
+A75: one eigenvalue is 0, stable equilibria
+A76: saddle irrational
+A77: unstable node integer
+A78: stable spiral integer
+A79: stable node irrational
+A80: stable node integer
+A81: repeated eigenvalues stable integer
+A82: one eigenvalue is 0, unstable equilibria
+A83: stable spiral integer
+A84: one eigenvalue is 0, unstable equilibria
+A85: unstable spiral integer
+A86: saddle integer
+A87: stable node irrational
+A88: unstable node integer
+A89: one eigenvalue is 0, stable equilibria
+A90: unstable node integer
+A91: unstable spiral integer
+A92: one eigenvalue is 0, stable equilibria
+A93: saddle integer
+A94: unstable spiral integer
+A95: stable node irrational
+A96: stable node irrational
+A97: stable spiral irrational
+A98: stable node integer
+A99: saddle irrational
+A100: unstable spiral irrational
+A101: unstable spiral irrational
+A102: one eigenvalue is 0, unstable equilibria
+A103: one eigenvalue is 0, stable equilibria
+A104: stable spiral integer
+A105: unstable node irrational
+A106: stable node irrational
+A107: one eigenvalue is 0, unstable equilibria
+A108: unstable spiral irrational
+A109: unstable node integer
+A110: saddle integer
+A111: repeated eigenvalues unstable integer
+A112: stable spiral irrational
+A113: one eigenvalue is 0, unstable equilibria
+A114: stable node irrational
+A115: stable spiral integer
+A116: unstable spiral integer
+A117: one eigenvalue is 0, unstable equilibria
+A118: one eigenvalue is 0, stable equilibria
+A119: repeated eigenvalues stable integer
+A120: unstable spiral irrational
+A121: center
+A122: stable node integer
+A123: stable node irrational
+A124: unstable spiral irrational
+A125: saddle irrational
+A126: unstable node irrational
+A127: one eigenvalue is 0, unstable equilibria
+A128: stable node integer
+A129: unstable spiral irrational
+A130: repeated eigenvalues unstable integer
+A131: center
+A132: unstable node integer
+A133: unstable node integer
+A134: repeated eigenvalues stable integer
+A135: unstable node integer
+A136: unstable node irrational
+A137: stable spiral irrational
+A138: saddle irrational
+A139: stable spiral integer
+A140: center
+A141: stable spiral integer
+A142: unstable node irrational
+A143: unstable spiral irrational
+A144: unstable node irrational
+A145: stable spiral integer
+A146: stable node irrational
+A147: repeated eigenvalues stable integer
+A148: unstable spiral integer
+A149: repeated eigenvalues stable integer
+A150: one eigenvalue is 0, unstable equilibria
+A151: saddle irrational
+A152: stable spiral irrational
+A153: stable spiral integer
+A154: unstable node integer
+A155: center
+A156: stable spiral irrational
+A157: unstable node integer
+A158: stable node integer
+A159: one eigenvalue is 0, stable equilibria
+A160: saddle irrational
+A161: one eigenvalue is 0, unstable equilibria
+A162: saddle irrational
+A163: stable node integer
+A164: unstable node irrational
+A165: unstable spiral irrational
+A166: repeated eigenvalues unstable integer
+A167: one eigenvalue is 0, stable equilibria
+A168: unstable node integer
+A169: stable node irrational
+A170: repeated eigenvalues stable integer
+A171: one eigenvalue is 0, unstable equilibria
+A172: stable spiral irrational
+A173: saddle integer
+A174: saddle integer
+A175: saddle irrational
+A176: repeated eigenvalues stable integer
+A177: stable spiral irrational
+A178: stable spiral integer
+A179: stable node integer
+A180: stable node integer
+A181: stable spiral irrational
+A182: stable spiral integer
+A183: stable spiral integer
+A184: stable node irrational
+A185: one eigenvalue is 0, stable equilibria
+A186: center
+A187: repeated eigenvalues stable integer
+A188: stable node integer
+A189: unstable spiral irrational
+A190: stable node integer
+A191: stable node irrational
+A192: unstable spiral irrational
+A193: stable node integer
+A194: one eigenvalue is 0, stable equilibria
+A195: stable node integer
+A196: unstable spiral integer
+A197: saddle irrational
+A198: repeated eigenvalues stable integer
+A199: one eigenvalue is 0, unstable equilibria
